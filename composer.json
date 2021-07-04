@@ -1,5 +1,5 @@
 {
-    "name": "abdulhafidzanshari/elastic-scout-driver",
+    "name": "xtwoend/scout-elastic-driver",
     "description": "Hyperf Elasticsearch Driver",
     "type": "library",
     "license": "MIT",
