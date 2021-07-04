@@ -1,0 +1,21 @@
+{
+    "name": "abdulhafidzanshari/elastic-scout-driver",
+    "description": "Hyperf Elasticsearch Driver",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Hafidz Anshari",
+            "email": "aditans88@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "hyperf/scout": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xtwoend\\ElasticScoutDriver\\": "src/"
+        }
+    }
+}
