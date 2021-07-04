@@ -14,7 +14,6 @@ namespace Xtwoend\ElasticScoutDriver;
 use Hyperf\Scout\Engine\Engine;
 use Hyperf\Contract\ConfigInterface;
 use Hyperf\Contract\ContainerInterface;
-use App\ScoutDriver\ElasticsearchEngine;
 use Hyperf\Scout\Provider\ProviderInterface;
 use Hyperf\Elasticsearch\ClientBuilderFactory;
 
